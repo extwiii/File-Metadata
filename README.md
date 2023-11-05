@@ -1,5 +1,4 @@
 # File-Metadata
-Demo : https://extwiii-file-metadata.herokuapp.com
 
 ## User stories:
 1. I can submit a FormData object that includes a file upload.
